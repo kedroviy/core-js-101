@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* ************************************************************************************************
  *                                                                                                *
  * Plese read the following tutorial before implementing tasks:                                   *
